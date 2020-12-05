@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Just GIT it
 
 ## How To Contribute
+
+I have no idea what is going on
