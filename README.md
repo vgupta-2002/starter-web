@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Just GIT it
+Added deployment
 
 ## How To Contribute
 
